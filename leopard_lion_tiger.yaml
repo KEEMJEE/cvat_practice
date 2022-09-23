@@ -1,0 +1,7 @@
+path : /content/datasets/leopard_lion_tiger # dataset root dir
+train : images/train # train images (relative to 'path')
+val : images/train # val images (relative to 'path')
+
+# Classes
+nc : 3 # number of classes
+names : ['leopard', 'lion', 'tiger'] # class names
